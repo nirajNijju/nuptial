@@ -1,5 +1,13 @@
+A[name] {
+    padding-top:1100px;
+}
+
 .nijju-fb{
-  background: rgba(106, 106, 106, 0.5)  center;
+  /*background: rgba(255,182,193, 0.6)  center;*/
+  background: rgba(255,255,255, 0.65)  center;
+  display: inline-block;
+  margin: 0px auto;
+  position: relative;
 }
 
 @font-face {
